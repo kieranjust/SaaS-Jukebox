@@ -1,3 +1,12 @@
+<h1> SaaS-Jukebox </h1>
+
+An application I made to learn the basics of Laravel, databases and permissions.
+There are three different levels of users, music tracks, genres and playlists.
+The admin can access and edit all tracks, genres and playlists including private playlists.
+The manager can access and edit all tracks, genres and public playlists and any private playlists that they own.
+The basic users can access but not edit all tracks, genres and public playlists. The users can however edit their own playlists, public or private.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
